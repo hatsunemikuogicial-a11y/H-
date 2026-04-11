@@ -29,7 +29,7 @@
 > Copia los códigos uno por uno, no los pegues todos juntos a la vez. 👁️  
 > Algunos comandos como las descargas necesitan una clave API para poder funcionar.  
 > Puedes adquirir tu clave en nuestra página oficial:  
-> 👉 [https://api.naufrabot.com](https://api.naufrabot.com)
+> 👉 [https://api.Hᴀᴛꜱᴜɴᴇ ᴍɪᴋᴜ.com](No disponible)
 
 ```bash
 pkg upgrade -y && pkg update -y && pkg install git -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install nodejs -y && pkg install wget -y && pkg install tesseract -y
