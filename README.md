@@ -44,7 +44,7 @@ cd /sdcard && git clone https://github.com/hatsunemikuogicial-a11y/H-
 ```
 
 ```bash
-cd Naufrabot-base
+cd H-bot
 ```
 
 ```bash
